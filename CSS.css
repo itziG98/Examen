@@ -1,0 +1,91 @@
+body{background-image:url("imagen/fondo.jpg");}
+        
+
+body{
+    padding: 5px;;
+    font-family: 'Open Sans', sans-serif;
+    background-color: transparent;
+    background-position: center;
+    background-attachment:fixed;
+    align-items: center;
+}
+
+header{
+    text-align: center;
+    align-items: center;
+    text-shadow: 2px 2px purple;
+                border-radius: 130px;
+                padding: 50px;
+}
+.artista{
+    padding: 5px;;
+    font-family: 'Open Sans', sans-serif;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 40px;
+
+}
+.img{
+    margin:auto;
+    border-radius: 100%;
+}
+
+            .contenedor{
+                width: 600px;
+                height: 200px;
+                float: left;
+                margin: auto;
+                background-color: bisque;
+                padding: 5px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+            .nombre{
+                text-align: center;
+                            }
+    
+            .par{
+                text-align:justify;
+
+               
+            }
+            
+            .refe{
+                width: 1200px;
+                height: 200px;
+                float: left;
+                margin: auto;
+                background-color: bisque;
+                padding: 5px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                margin-left: 20px;
+                margin-right: 20px;   
+            }
+            .redes{
+                text-align: center;
+                list-style: none;
+                padding-bottom: 20px;
+                color:crimson;
+                font-size: 40px;
+                    
+            
+            }
+            
+            
+            .redes li {
+                display:inline-block;
+                
+            
+            }
+            
+            .redes li a{
+                padding: 100px;
+                display: block;
+    
+            }
